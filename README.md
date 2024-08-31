@@ -1,1 +1,1 @@
-# CALCULADORA EM JAVA ![Calculadora](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# CALCULADORA EM JAVA U+1F4BB
